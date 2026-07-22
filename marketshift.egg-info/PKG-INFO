@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: marketshift
+Version: 0.1.0
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: streamlit
+Requires-Dist: xgboost
+Requires-Dist: python-dotenv
+Requires-Dist: ta
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Dynamic: requires-dist

@@ -1,0 +1,13 @@
+README.md
+setup.py
+core/__init__.py
+core/backtest.py
+core/engine.py
+core/mock_mt5.py
+marketshift.egg-info/PKG-INFO
+marketshift.egg-info/SOURCES.txt
+marketshift.egg-info/dependency_links.txt
+marketshift.egg-info/requires.txt
+marketshift.egg-info/top_level.txt
+strategies/__init__.py
+strategies/signal.py
