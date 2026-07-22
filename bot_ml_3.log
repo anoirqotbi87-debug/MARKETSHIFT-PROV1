@@ -1,0 +1,34 @@
+2026-07-22 02:20:37,917 - INFO - Modèle ML chargé avec succès depuis /workspace/project/MARKETSHIFT-PROV1/models/model.pkl
+2026-07-22 02:20:37,918 - INFO - Moteur de trading démarré.
+2026-07-22 02:20:37,918 - WARNING - ATTENTION: Bibliothèque MetaTrader5 introuvable. Utilisation du MOCK MT5 pour les tests.
+2026-07-22 02:20:37,918 - INFO - Connexion MT5 (ou Mock) établie.
+2026-07-22 02:20:37,919 - INFO - API démarrée sur http://127.0.0.1:8000
+2026-07-22 02:20:37,944 - INFO - Signal généré: HOLD
+2026-07-22 02:20:38,953 - INFO - Signal généré: HOLD
+2026-07-22 02:20:39,961 - INFO - Signal généré: HOLD
+2026-07-22 02:20:40,970 - INFO - Signal généré: HOLD
+2026-07-22 02:20:41,978 - INFO - Signal généré: HOLD
+2026-07-22 02:20:42,986 - INFO - Signal généré: HOLD
+2026-07-22 02:20:43,994 - INFO - Signal généré: HOLD
+2026-07-22 02:20:45,003 - INFO - Signal généré: HOLD
+2026-07-22 02:20:46,012 - INFO - Signal généré: HOLD
+2026-07-22 02:20:47,020 - INFO - Signal généré: HOLD
+2026-07-22 02:20:48,028 - INFO - Signal généré: HOLD
+2026-07-22 02:20:49,037 - INFO - Signal généré: HOLD
+2026-07-22 02:20:50,045 - INFO - Signal généré: HOLD
+2026-07-22 02:20:51,053 - INFO - Signal généré: HOLD
+2026-07-22 02:20:52,062 - INFO - Signal généré: HOLD
+2026-07-22 02:20:53,070 - INFO - Signal généré: HOLD
+2026-07-22 02:20:54,079 - INFO - Signal généré: HOLD
+2026-07-22 02:20:55,087 - INFO - Signal généré: HOLD
+2026-07-22 02:20:56,095 - INFO - Signal généré: HOLD
+2026-07-22 02:20:57,104 - INFO - Signal généré: HOLD
+2026-07-22 02:20:58,113 - INFO - Signal généré: HOLD
+2026-07-22 02:20:59,121 - INFO - Signal généré: HOLD
+2026-07-22 02:21:00,129 - INFO - Signal généré: HOLD
+2026-07-22 02:21:01,138 - INFO - Signal généré: HOLD
+2026-07-22 02:21:02,146 - INFO - Signal généré: HOLD
+2026-07-22 02:21:03,154 - INFO - Signal généré: HOLD
+2026-07-22 02:21:04,163 - INFO - Signal généré: HOLD
+2026-07-22 02:21:05,171 - INFO - Signal généré: HOLD
+2026-07-22 02:21:06,180 - INFO - Signal généré: HOLD

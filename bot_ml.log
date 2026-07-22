@@ -1,0 +1,5 @@
+2026-07-22 02:19:07,234 - INFO - Modèle ML chargé avec succès depuis /workspace/project/MARKETSHIFT-PROV1/models/model.pkl
+2026-07-22 02:19:07,235 - INFO - Moteur de trading démarré.
+2026-07-22 02:19:07,235 - WARNING - ATTENTION: Bibliothèque MetaTrader5 introuvable. Utilisation du MOCK MT5 pour les tests.
+2026-07-22 02:19:07,237 - INFO - Connexion MT5 (ou Mock) établie.
+2026-07-22 02:19:07,238 - INFO - API démarrée sur http://127.0.0.1:8000
